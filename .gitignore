@@ -6,11 +6,8 @@ target
 build
 bin
 .metadata
-#.gradle
-#gradle*
 *.war
 *.bak
 .classpath
 /.recommenders/
 /node_modules/
-security
